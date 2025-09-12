@@ -1,0 +1,14 @@
+{
+  "name": "exgine",
+  "emitLegacyScripts": true,
+  "tree": {
+    "ReplicatedStorage": {
+      "Exgine": {
+        "$path": "out/",
+        "Packages": {
+          "$path": "Packages"
+        }
+      }
+    }
+  }
+}

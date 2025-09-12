@@ -1,0 +1,17 @@
+[package]
+name = "fl215/exgine"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = [
+  "src/*",
+  "README.md",
+  "default.project.json"
+]
+exclude = ["*"]
+
+[dependencies]
+vide = "centau/vide@0.3.1"
+jecs = "ukendio/jecs@0.8.3"
+replecs = "pepeeltoro41/replecs@0.0.2"
+jabby = "alicesaidhi/jabby@0.3.1"
