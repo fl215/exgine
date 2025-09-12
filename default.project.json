@@ -2,9 +2,10 @@
   "name": "exgine",
   "emitLegacyScripts": true,
   "tree": {
+    "$className": "DataModel",
     "ReplicatedStorage": {
       "Exgine": {
-        "$path": "out/",
+        "$path": "out",
         "Packages": {
           "$path": "Packages"
         }
