@@ -6,6 +6,7 @@ luac.out
 *.zip
 *.tar.gz
 *.rbxm
+*.rbxl
 
 # Object files
 *.o
