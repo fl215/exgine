@@ -21,6 +21,7 @@ luac.out
 
 # Precompiled Lua Code
 out/*
+test-out/*
 
 # Libraries
 *.lib
